@@ -1,0 +1,192 @@
+{
+  "productosDash" : [
+      {
+        "key": 0,
+        "nombre":"elearn",
+        "caption":"e-learning",
+        "brief":"Contamos con expertos que te ayudaran a realizar capacitaciones en linea con tu personal en otras partes del pais",
+        "img" : "https://picsum.photos/600/300/?image=25",
+        "detalle":{
+          "title":"E-Learning",
+          "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "items":[
+            {"caption":"ItemDetail1"},
+            {"caption":"ItemDetail2"},
+            {"caption":"ItemDetail3"},
+            {"caption":"ItemDetail4"}
+          ]
+        }
+      },
+      {
+        "key": 1,
+        "nombre":"ia",
+        "caption":"IA",
+        "brief":"En tescom.mx contamos con CorporateSupport para el desarrollo de tu insfraestructura basado en los principios de la Inteligencia Artifical",
+        "img" : "https://picsum.photos/600/300/?image=40",
+        "detalle":{
+          "title":"Inteligencia Artifical y Machine Learning",
+          "description":"En tescom.mx contamos con CorporateSupport para el desarrollo de tu insfraestructura basado en los principios de la Inteligencia Artifical.",
+          "items":[
+            {"caption":"TensorFlow"},
+            {"caption":"SalesForce Einstein"},
+            {"caption":"Deep Cognition"},
+            {"caption":"Azure Machine Learning"}
+          ]
+        }
+      },
+      {
+        "key": 2,
+        "nombre":"cloud",
+        "caption":"Cloud Computing",
+        "brief":"¿Necesitas escalar tus servicios y no tienes las infraestructura necesaria?, Conoce nuestra linea de cloud servers",
+        "img" : "https://picsum.photos/600/300/?image=10",
+        "detalle":{
+          "title":"Inteligencia Artifical y Machine Learning",
+          "description":"¿Necesitas escalar tus servicios y no tienes las infraestructura necesaria?, Conoce nuestra linea de cloud servers",
+          "items":[
+            {"caption":"TensorFlow"},
+            {"caption":"SalesForce Einstein"},
+            {"caption":"Deep Cognition"},
+            {"caption":"Azure Machine Learning"}
+          ]
+        }
+      },
+      {
+        "key": 3,
+        "nombre":"microsoft",
+        "caption":"Productos de Microsoft",
+        "brief":"Somos partner de microsoft, te podemos ofrecer su gama de productos con un buen plan de licencionamiento",
+        "img" : "https://picsum.photos/600/300/?image=10",
+        "detalle":{
+          "title":"Partner de Microsoft",
+          "description":"Somos partner de microsoft, te podemos ofrecer su gama de productos con un buen plan de licencionamiento",
+          "items":[
+            {"caption":"Office"},
+            {"caption":"SQL Server"},
+            {"caption":"Windows Server"},
+            {"caption":"Microsoft Azure"}
+          ]
+        }
+      }
+    ],
+  "carrousel" : [
+    {
+      "key" : 0,
+      "caption":"Análisis y Diseño de soluciones de software",
+      "text":"Gane más control sobre los costos y riesgos de sus procesos.",
+      "img" : "https://picsum.photos/1024/480/?image=2"
+    },
+    {
+      "key" : 1,
+      "caption":"Cloud Services",
+      "text":"La Nube Está En La Tierra. !Con AWS¡. Infraestructura. Datos y analítica. Disco. Servicios de aplicaciones. Móvil. Red. Cálculo. Seguridad.",
+      "img" : "https://picsum.photos/1024/480/?image=4"
+    },
+    {
+      "key" : 2,
+      "caption":"SCRUM",
+      "text":"Nuestros SCRUM Master te permitiran implementar esta metodologia de trabajo",
+      "img" : "https://picsum.photos/1024/480/?image=60"
+    },
+    {
+      "key" : 3,
+      "caption":".NET",
+      "text":"Desarrolladores en .NET con mas de 10 años de experiencia",
+      "img" : "https://picsum.photos/1024/480/?image=20"
+    }
+  ],
+  "navBarServicios" : [
+    {
+      "key" : 0,
+      "caption" :"Fiscales",
+      "nombre" : "fiscal",
+      "img" : "https://picsum.photos/600/300/?image=6",
+      "detalle" : {
+        "title" : "Servicios Fiscales",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "items" : []
+      }
+    },
+    {
+      "key" : 1,
+      "caption" :"Infraestructura",
+      "nombre" : "infra",
+      "img" : "https://picsum.photos/600/300/?image=6",
+      "detalle" : {
+        "title" : "Infraestructura",
+        "description" : "asdfdfsdfa",
+        "items" : []
+      }
+    },
+    {
+      "key" : 2,
+      "caption" :"Soluciones de software",
+      "nombre" : "software",
+      "img" : "https://picsum.photos/600/300/?image=6",
+      "detalle" : {
+        "title" : "Soluciones de software",
+        "description" : "75yhdrtg",
+        "items" : []
+      }
+    },
+    {
+      "key" : 3,
+      "caption" :"Capacitación",
+      "nombre" : "capacitacion",
+      "img" : "https://picsum.photos/600/300/?image=6",
+      "detalle" : {
+        "title" : "Capacitación",
+        "description" : "htdf",
+        "items" : []
+      }
+    }
+  ],
+  "navBarProductos" : [
+    {
+      "key" : 10,
+      "caption" : "Punto de Venta",
+      "nombre" : "pos",
+      "img" : "https://picsum.photos/600/300/?image=3",
+      "detalle" : {
+        "title" : "Punto de venta",
+        "description" : "Mejora tus ventas con un software puntero en el mercado",
+        "items" : []
+      }
+    },
+    {
+      "key" : 20,
+      "caption" : "Inventarios",
+      "nombre" : "inventario",
+      "img" : "https://picsum.photos/600/300/?image=3",
+      "detalle" : {
+        "title" : "Control de inventarios",
+        "description" : "Mejore sus costos operativos",
+        "items" : []
+      }
+    },
+    {
+      "key" : 30,
+      "caption" : "Facturación Electrónica",
+      "nombre" : "facturae",
+      "img" : "https://picsum.photos/600/300/?image=3",
+      "detalle" : {
+        "title" : "Facturación Eléctronica",
+        "description" : "Facturación eléctronica",
+        "items" : []
+      }
+    }
+  ],
+  "footer" : {
+    "domicilio": {
+      "direccion" : "Guadaljara, Jalisco",
+      "telefono" : "(668) 189-4767",
+      "mail" : "info@tescom.mx"
+    },
+    "redes" :{
+      "facebook" : "fb.com",
+      "twitter" : "tw.com",
+      "instagram" : "ins.com"
+    }
+  },
+  "producto" : "TESCOM.MX"
+}

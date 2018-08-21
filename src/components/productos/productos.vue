@@ -10,7 +10,7 @@
           <p class="card-text">
               {{detalle}}
           </p>
-          <a href="#" class="card-link flotante">Ver mas</a>
+          <router-link :to="{ name: 'detalle', params: {tipo: 'PD', detalleName: parametro}}" class="flotante">Ver más</router-link>
       </b-card-body>
     </b-card>
   </div>
@@ -19,10 +19,12 @@
 <script>
 export default {
   name : 'productoCard',
-  props : ['titulo','detalle', 'url'],
+  props : ['titulo','detalle', 'url', 'parametro'],
   created() {
 
-  }
+  },
+  data: () => ({
+  })
 }
 </script>
 <style lang="css" scoped>
