@@ -10,13 +10,17 @@
                 :parametro = "elem.nombre"
             />
           </div>
+          <!--<div class="row">
+            <Ribbon msg="Un mensaje importante"></Ribbon>
+          </div>-->
     </div>
   </div>
 </template>
 <script>
 import productosCard from '@/components/productos/productos'
 import carrouselBar from '@/components/carousel/carousel'
-import JsonStatic from "@/assets/detalleservicios.json"
+import Ribbon from '@/components/ribbon/ribbon'
+import JsonStatic from '@/assets/detalleservicios.json'
 export default {
   name: "",
   data: () => ({
@@ -24,7 +28,8 @@ export default {
   }),
   components: {
     productosCard,
-    carrouselBar
+    carrouselBar,
+    Ribbon
   },
   created() {
     //do something after creating vue instance

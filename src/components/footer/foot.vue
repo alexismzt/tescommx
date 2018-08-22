@@ -17,12 +17,11 @@
         </div>
       </div>
       <div class="col-md-6 text-center">
-        <h5><router-link :to="{ name: 'nosotros'}" class="noLinkColor">Acerca de nosotros</router-link></h5>
-        <span><router-link :to="{ name: 'mision'}">Misión</router-link> * </span>
-        <span><router-link :to="{ name: 'vision'}">Visión</router-link></span>
+        <h5><a href="/#/nosotros" class="noLinkColor">Acerca de nosotros</a></h5>
+        <span><a href="/#/nosotros#tmision">Misión</a> * </span>
+        <span><a href="/#/nosotros#tvision">Visión</a></span>
         <br>
-        <span><router-link :to="{ name: 'valores'}">Valores</router-link> * </span>
-        <span><router-link :to="{ name: 'objetivos'}">Objetivos</router-link></span>
+        <span><a href="/#/nosotros#tvalores">Valores</a></span>
         <br>
       </div>
       <div class="col-md-3">

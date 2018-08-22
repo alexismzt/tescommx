@@ -1,10 +1,11 @@
 <template>
   <div id="mision">
     <div class="">
-      <img src="https://picsum.photos/1024/480/?image=42" alt="">
+      <img src="https://picsum.photos/1024/480/?image=48" alt="">
     </div>
     <h1 class="text-right">Misión</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <p>Garantizar la seguridad electrónica de empresas con tecnología de vanguardia, enfocándonos en brindar un servicio inigualable y una infraestructura de
+alta tecnología, buscando siempre el bienestar de nuestros clientes y persiguiendo la innovación, investigación y mejora de nuestro equipo.</p>
   </div>
 </template>
 <script>

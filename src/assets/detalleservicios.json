@@ -86,7 +86,7 @@
       "key" : 2,
       "caption":"SCRUM",
       "text":"Nuestros SCRUM Master te permitiran implementar esta metodologia de trabajo",
-      "img" : "https://picsum.photos/1024/480/?image=60"
+      "img" : "https://picsum.photos/1024/480/?image=534"
     },
     {
       "key" : 3,
@@ -114,8 +114,14 @@
       "img" : "https://picsum.photos/600/300/?image=6",
       "detalle" : {
         "title" : "Infraestructura",
-        "description" : "asdfdfsdfa",
-        "items" : []
+        "description" : "La Infraestructura como servicio (IaaS) es una solución de cloud computing, mediante la cual un proveedor proporciona a los usuarios acceso a recursos informáticos como servidores, almacenamiento y redes. Las empresas utilizan sus propias plataformas y aplicaciones en una infraestructura de proveedor de servicios.\r\nCaracterísticas clave:",
+        "items" : [
+          {"caption" : "En lugar de adquirir hardware directamente, los usuarios pagan por IaaS on demand."},
+          {"caption" : "La infraestructura es escalable, en función de las necesidades de almacenamiento y procesamiento."},
+          {"caption" : "Ahorra a las empresas el coste de comprar y mantener su propio hardware."},
+          {"caption" : "Como los datos están en el cloud, no existe ningún punto único de anomalía."},
+          {"caption" : "Habilita la virtualización de tareas administrativas, liberando tiempo para dedicar a otros trabajos."}
+        ]
       }
     },
     {
