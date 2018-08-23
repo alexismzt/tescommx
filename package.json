@@ -2,9 +2,11 @@
   "name": "tescom.mx",
   "version": "0.1.0",
   "private": true,
+  "wst": "/dist/",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
+    "deploy": "node ./node_modules/vue-gh-pages/index.js",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
@@ -15,6 +17,7 @@
     "@vue/cli-plugin-babel": "^3.0.0-rc.10",
     "@vue/cli-plugin-eslint": "^3.0.0-rc.10",
     "@vue/cli-service": "^3.0.0-rc.10",
+    "vue-gh-pages": "^1.18.2",
     "vue-router": "^3.0.1",
     "vue-template-compiler": "^2.5.16"
   }
